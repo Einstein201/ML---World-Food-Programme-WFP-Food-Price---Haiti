@@ -1,0 +1,68 @@
+Document de cadrage – Projet Capstone Data Science
+
+***Titre du projet***
+Prévision et analyse des prix alimentaires en Haïti à partir des données du World Food Programme (WFP)
+
+Contexte
+Haïti connaît depuis plusieurs années une forte instabilité économique marquée par la hausse des prix des produits alimentaires de base.
+Le World Food Programme (WFP) collecte régulièrement des données sur ces prix à travers différents marchés du pays.
+Ces données constituent une ressource essentielle pour comprendre les dynamiques de prix, anticiper les variations régionales et appuyer les politiques publiques de sécurité alimentaire.
+
+1. Problématique
+-Comment utiliser les données historiques du WFP (2005-2025) pour :
+
+-Analyser les tendances de prix selon les produits et les régions.
+
+-Prédire l’évolution future des prix alimentaires.
+
+-Identifier les hausses anormales pouvant signaler une crise économique ou alimentaire.
+
+2. Objectifs du projet
+
+Objectif général
+-Mettre en œuvre des techniques de Data Science et de Machine Learning pour modéliser et prévoir les prix alimentaires en Haïti.
+
+-Objectifs spécifiques
+
+-Explorer et visualiser l’évolution des prix dans le temps et selon les zones géographiques.
+
+-Construire un modèle prédictif capable d’estimer les prix futurs des produits.
+
+-Détecter les anomalies ou hausses inhabituelles de prix.
+
+-Présenter les résultats sous forme de visualisations claires et exploitables.
+
+3. Modélisation
+-Modèles envisagés : Linear Regression, Random Forest, XGBoost, ARIMA ...
+
+-Test de différents modèles pour identifier celui offrant la meilleure précision.
+
+-Visualisation et interprétation
+
+-Graphiques d’évolution des prix observés et prédits.
+
+-Mise en évidence des périodes d’augmentation rapide.
+
+-Synthèse des résultats pour la communication finale.
+
+4. Résultats attendus
+
+-Un modèle prédictif fiable pour estimer l’évolution des prix alimentaires.
+
+-Une compréhension claire des tendances régionales et saisonnières.
+
+-Une méthode de détection automatique des hausses anormales.
+
+-Un rapport final présentant les analyses et recommandations.
+
+5. Impact attendu
+
+-Amélioration du suivi de la sécurité alimentaire en Haïti.
+
+-Soutien à la planification des interventions humanitaires et économiques.
+
+-Contribution à la prévention des crises liées à la volatilité des prix.
+
+Conclusion
+Ce projet vise à utiliser la Data Science pour améliorer la compréhension et la prévision des prix alimentaires en Haïti.
+Grâce à l’analyse des données du WFP sur deux décennies (2005–2025), il permettra d’apporter des informations exploitables pour la prise de décision, la planification économique et la gestion de la sécurité alimentaire.
